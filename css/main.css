@@ -36,17 +36,17 @@ nav .wrapper {
   align-items: center;;
 }
 
-nav ul li {
+.nav-item {
   display: inline-block;
   padding: .2rem .6rem;
   border-right: solid 1px black;
 }
 
-nav ul li a {
+.nav-item a {
   color: var(--clr-accent);
 }
 
-nav ul li a:hover {
+.nav-item a:hover {
   color: teal;
 }
 
