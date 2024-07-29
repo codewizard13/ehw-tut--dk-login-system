@@ -9,12 +9,17 @@
 
 ### CH 2. 00:01:16 - How to get my lesson files
 
+- On Patreon
+- He's including the CSS there because it will take up valueable tutorial time to put it here
+- #GOTCHA: Patreon costs $$$
 
 ### CH 3. 00:02:11 - What will you learn in this video?
 
+- We **WILL** build a fully-working **login system** in this video. Just know that it isn't possible to teach a commercial version without getting into more advanced PHP. I want to keep this video beginner-friendly and simple.
 
 ### CH 4. 00:02:48 - What security will we use?
 
+- We will use **prepared statements**
 
 ### CH 5. 00:03:41 - It's Procedural PHP, not OOP PHP
 
@@ -24,6 +29,13 @@
 
 ### CH 7. 00:04:48 - A demonstration of what we will make
 
+![Preview of final project: Home](../pix/screen-tutwrk--dk--php-login-system-proc--02--yt.jpg)
+
+![Preview of final project: Home](../pix/screen-tutwrk--dk--php-login-system-proc--03--yt.jpg)
+
+![Preview of final project: Home](../pix/screen-tutwrk--dk--php-login-system-proc--04--yt.jpg)
+
+![Preview of final project: Home](../pix/screen-tutwrk--dk--php-login-system-proc--05--yt.jpg)
 
 ### CH 8. 00:08:20 - What YOU should have ready before we start!
 

@@ -49,7 +49,7 @@
 
 ## TAGS
 
-`Tutwrk` `Dani Krossing` `YouTube` `PHP` `Coding` `Project Based` `LAMP` `MySQL` `Project-Based`
+`Tutwrk` `Dani Krossing` `YouTube` `PHP` `Coding` `Project Based` `LAMP` `MySQL` `Project-Based` `Procedural Programming` `MySQLi`
 
 
 
