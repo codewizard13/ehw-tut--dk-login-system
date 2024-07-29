@@ -2,6 +2,7 @@
   --clr-primary: red;
   --clr-secondary: gray;
   --clr-accent: cornflowerBlue;
+  --content-max-width: 60vw;
 }
 
 html * {
@@ -12,6 +13,7 @@ html * {
   width: 100%;
   height: 60px;
   background-color: #000;
+  align-content: center;
 }
 
 .logo {
@@ -23,7 +25,8 @@ nav .wrapper {
   display: flex;
   justify-content: space-between;
   overflow: hidden;
-  width: fit-content;
+  /* width: fit-content; */
+  width: var(--content-max-width);
   margin: 0 auto;
 }
 
