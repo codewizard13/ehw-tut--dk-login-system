@@ -21,58 +21,61 @@ include_once 'includes/dbh.inc.php';
 
 <body>
 
-<nav>
+  <header class="header-main">
+    <nav>
+      <div class="wrapper">
+        <a href="index.php">
+          <img src="pix/wp-logo-white_6.png" alt="Blogs logo" srcset="">
+        </a>
+        <ul>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="discover.php">About Us</a></li>
+          <li><a href="blog.php">Find Blogs</a></li>
+          <li><a href="signup.php">Sign up</a></li>
+          <li><a href="login.php">Log in</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <!-- .wrapper -->
   <div class="wrapper">
-    <a href="index.php">
-      <img src="pix/wp-logo-white_6.png" alt="Blogs logo" srcset="">
-    </a>
-    <ul>
-      <li><a href="index.php">Home</a></li>
-      <li><a href="discover.php">About Us</a></li>
-      <li><a href="blog.php">Find Blogs</a></li>
-      <li><a href="signup.php">Sign up</a></li>
-      <li><a href="login.php">Log in</a></li>
-    </ul>
+
+    <section class="index-intro">
+      <h1>This is an Introduction</h1>
+      <p>Here is an important paragraph that explains the purpose of the website.</p>
+    </section>
+
+    <section class="index-categories">
+      <h2>Some Basic Categories</h2>
+
+      <!-- .index-categories-list -->
+      <div class="index-categories-list">
+
+        <div class="cat-box">
+          <h3>Fun Stuff</h3>
+        </div>
+        <div class="cat-box">
+          <h3>Serious Stuff</h3>
+        </div>
+        <div class="cat-box">
+          <h3>Exciting Stuff</h3>
+        </div>
+        <div class="cat-box">
+          <h3>Boring Stuff</h3>
+        </div>
+
+
+      </div>
+      <!-- // .index-categories-list -->
+
+    </section>
+
   </div>
-</nav>
-
-<!-- .wrapper -->
-<div class="wrapper">
-
-  <section class="index-intro">
-    <h1>This is an Introduction</h1>
-    <p>Here is an important paragraph that explains the purpose of the website.</p>
-  </section>
-
-  <section class="index-categories">
-    <h2>Some Basic Categories</h2>
-
-    <!-- .index-categories-list -->
-    <div class="index-categories-list">
-
-      <div class="cat-box">
-        <h3>Fun Stuff</h3>
-      </div>
-      <div class="cat-box">
-        <h3>Serious Stuff</h3>
-      </div>
-      <div class="cat-box">
-        <h3>Exciting Stuff</h3>
-      </div>
-      <div class="cat-box">
-        <h3>Boring Stuff</h3>
-      </div>
-
-
-    </div>
-    <!-- // .index-categories-list -->
-
-  </section>
-
-</div>
-<!-- // .wrapper -->
+  <!-- // .wrapper -->
 
 </body>
+
 </html>
 
 <script src="js/script.js"></script>
