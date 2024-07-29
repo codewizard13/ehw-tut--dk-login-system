@@ -16,13 +16,14 @@ html * {
 
 .logo {
   width: 4rem;
+  height: 100%;
 }
 
 nav .wrapper {
   display: flex;
   justify-content: space-between;
   overflow: hidden;
-  width: 60vw;
+  width: fit-content;
   margin: 0 auto;
 }
 
