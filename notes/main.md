@@ -49,6 +49,62 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 ```
 
+- Following [this tut](https://www.youtube.com/watch?v=5e0wuvhxLk4) to create the **reset.css** file
+
+#### Three most popular reset.css options
+
+- **Meyerweb**: https://meyerweb.com/eric/tools/css/reset/
+- **Normalize.css**: https://byby.dev/normalize-css
+- **The New CSS Reset**: https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/#top-of-site
+
+- WE will be using the **new CSS reset**
+- This is what I ended up with:
+
+**File: reset.css**
+
+```css
+/* RESETS all styles so overrides default browser styling
+ for all the different browsers. */
+
+/*** The new CSS Reset - version 1.2.0 (last updated 23.7.2021) ***/
+
+/* Remove all the styles of the "User-Agent-Stylesheet", except for the 'display' property */
+*:where(:not(iframe, canvas, img, svg, video):not(svg *)) {
+  all: unset;
+  display: revert;
+}
+
+/* Preferred box-sizing value */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/*
+  Remove list styles (bullets/numbers)
+  in case you use it with normalize.css
+*/
+ol,
+ul {
+  list-style: none;
+}
+
+/* For images to not be able to exceed their container */
+img {
+  max-width: 100%;
+}
+
+/* Removes spacing between cells in tables */
+table {
+  border-collapse: collapse;
+}
+
+/* Revert the 'white-space' property for textarea elements on Safari */
+textarea {
+  white-space: revert;
+}
+```
 
 ### CH 9. 00:12:52 - Creating our Header and Index pages
 
