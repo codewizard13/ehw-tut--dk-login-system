@@ -41,7 +41,7 @@ include_once 'includes/dbh.inc.php';
   <!-- // .header-main -->
 
   <!-- .wrapper -->
-  <div class="wrapper">
+  <main class="wrapper">
 
     <section class="index-intro">
       <h1>This is an Introduction</h1>
@@ -73,7 +73,7 @@ include_once 'includes/dbh.inc.php';
 
     </section>
 
-  </div>
+</main>
   <!-- // .wrapper -->
 
 </body>
