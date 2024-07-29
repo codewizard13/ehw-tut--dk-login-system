@@ -21,10 +21,22 @@ include_once 'includes/dbh.inc.php';
 
 <body>
 
+<nav>
+  <div class="wrapper">
+    <a href="index.php">
+      <img src="pix/wp-logo-white_6.png" alt="Blogs logo" srcset="">
+    </a>
+    <ul>
+      <li><a href="index.php">Home</a></li>
+      <li><a href="discover.php">About Us</a></li>
+      <li><a href="blog.php">Find Blogs</a></li>
+      <li><a href="signup.php">Sign up</a></li>
+      <li><a href="login.php">Log in</a></li>
+    </ul>
+  </div>
+</nav>
 
-  <header class="header-main">
 
-  </header>
 
 </body>
 
