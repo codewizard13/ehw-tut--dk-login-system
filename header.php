@@ -16,7 +16,7 @@ include_once 'includes/dbh.inc.php';
     rel="stylesheet">
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/main.css">
-  <!-- dk-style.css NOT connected -->
+  <!-- <link rel="stylesheet" href="css/dk-style.css"> -->
 </head>
 
 <body>
