@@ -39,6 +39,16 @@
 
 ### CH 8. 00:08:20 - What YOU should have ready before we start!
 
+!!! #GOTCHA: It takes a few minutes to rebuild what he has from scratch.
+
+- This is the **Google Fonts** code I came up with in 2024:
+
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+```
+
 
 ### CH 9. 00:12:52 - Creating our Header and Index pages
 
