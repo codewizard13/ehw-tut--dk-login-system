@@ -205,7 +205,11 @@ include_once 'includes/dbh.inc.php';
 
 !!! #GOTCHA: When creating the `header.php` file, the opening `main.wrapper` must be included. Also, `footer.php` should start with the ending `main.wrapper` div tag.
 
+!!! #NOTE: By setting a line height for horizontal nav menu links (ANCHOR TAGS) equal to the container (header) height, it will automatically center. However, if you are using FLEXBOX you can center with `align-items: center`
 
+!!! #NOTE: How to add **socials** is here, but we won't be doing that in this project: https://youtu.be/HkNNyDtm7mg?si=0wgvGNH0cEG8RTaW&t=1511
+
+- How to **preload images** using `body:after`: https://youtu.be/HkNNyDtm7mg?si=prewbW07VBtOckHa&t=2353
 
 
 

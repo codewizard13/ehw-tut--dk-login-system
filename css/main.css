@@ -31,6 +31,7 @@ nav .wrapper {
   overflow: hidden;
   /* width: fit-content; */
   width: var(--content-max-width);
+  min-width: 750px;
   margin: 0 auto;
   align-items: center;;
 }
@@ -47,4 +48,8 @@ nav ul li a {
 
 nav ul li a:hover {
   color: teal;
+}
+
+.active {
+  background: pink;
 }

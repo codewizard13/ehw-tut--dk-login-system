@@ -76,3 +76,7 @@ Notes are located in [./notes/main.md](./notes/main.md)
 
 - Good **Color Names** and Shades website: https://www.html-color-names.com/lightgreen.php
 - [Ascii Characters](https://www.ascii-code.com/): Find the cross-type divide symbol here
+- https://dommagnifi.co/2019-05-06-basic-class-toggle-with-vanilla-js-es6/
+- https://dommagnifi.co/resume/
+- https://tylermcginnis.com/arrow-functions/
+- https://devgeniem.github.io/bulmally/components/navbar/navbar.html

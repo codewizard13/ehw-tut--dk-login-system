@@ -29,11 +29,11 @@ include_once 'includes/dbh.inc.php';
           <img src="pix/ehd-logo--blogs.svg" alt="Blogs logo" class="logo">
         </a>
         <ul>
-          <li><a href="index.php">Home</a></li>
-          <li><a href="discover.php">About Us</a></li>
-          <li><a href="blog.php">Find Blogs</a></li>
-          <li><a href="signup.php">Sign up</a></li>
-          <li><a href="login.php">Log in</a></li>
+          <li class="data-nav"><a href="index.php">Home</a></li>
+          <li class="data-nav"><a href="discover.php">About Us</a></li>
+          <li class="data-nav"><a href="blog.php">Find Blogs</a></li>
+          <li class="data-nav"><a href="signup.php">Sign up</a></li>
+          <li class="data-nav"><a href="login.php">Log in</a></li>
         </ul>
       </div>
     </nav>
