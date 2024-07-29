@@ -21,11 +21,12 @@ include_once 'includes/dbh.inc.php';
 
 <body>
 
+<!-- .header-main -->
   <header class="header-main">
     <nav>
       <div class="wrapper">
         <a href="index.php">
-          <img src="pix/wp-logo-white_6.png" alt="Blogs logo" srcset="">
+          <img src="pix/ehd-logo--blogs.svg" alt="Blogs logo" class="logo">
         </a>
         <ul>
           <li><a href="index.php">Home</a></li>
@@ -37,6 +38,7 @@ include_once 'includes/dbh.inc.php';
       </div>
     </nav>
   </header>
+  <!-- // .header-main -->
 
   <!-- .wrapper -->
   <div class="wrapper">

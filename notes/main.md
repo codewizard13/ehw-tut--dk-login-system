@@ -108,6 +108,12 @@ textarea {
 
 ### CH 9. 00:12:52 - Creating our Header and Index pages
 
+- Ref: https://youtu.be/HkNNyDtm7mg?si=fvpjh1UjjHDiMM2U&t=287
+- Created SVG logo "Blogs" here: https://boxy-svg.com/
+
+!!! #GOTCHA: He says his `script.js` file is only for changing active menu link color when page changes, but could not find his code. Skipping for now
+
+
 
 ### CH 10. 00:15:57 - Creating our Signup and Login pages
 
