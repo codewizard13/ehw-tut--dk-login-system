@@ -3,7 +3,7 @@
 ?>
 
     <section class="index-intro">
-      <h1>This is an Introduction</h1>
+      <h1>This is the HOMEPAGE</h1>
       <p>Here is an important paragraph that explains the purpose of the website.</p>
     </section>
 

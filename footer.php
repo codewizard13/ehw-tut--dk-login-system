@@ -5,7 +5,7 @@
 
 </html>
 
-<script src="js/script.js"></script>
+<!-- <script src="js/script.js"></script> -->
 
 <script>
 
@@ -74,5 +74,4 @@ for (link of links) {
   if (activeNavItemIndex !== null && navItems[activeNavItemIndex]) {
     navItems[activeNavItemIndex].classList.add('active');
   }
-</script>
 </script>
